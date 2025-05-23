@@ -17,6 +17,9 @@
 - [Files Included](#files-included)
 
 ---
+<p align="center">
+  <img src="dashboard-preview.png" width="700" alt="Customer Satisfaction Dashboard Preview">
+</p>
 
 ## 📖 Project Overview
 

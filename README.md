@@ -97,6 +97,5 @@ The dataset includes fields such as:
 
 ## 📁 Files Included
 
-Customer_Satisfaction_Dashboard.xlsx : Main dashboard (interactive)
-Raw_Data.csv : Cleaned dataset used in dashboard
+Customer_Satisfaction_Dashboard.xlsx : Main dashboard (interactive), Cleaned dataset used in dashboard                                                                
 README.md : Project documentation
